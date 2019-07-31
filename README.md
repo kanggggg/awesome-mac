@@ -133,6 +133,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Inkdrop](https://www.inkdrop.info/) - Notebook app for Markdown lovers built on top of Electron.
 * [Joplin](https://joplin.cozic.net/) - Cross platform open-source notepad with markdown support and todo list manager with synchronisation capabilities. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [MarginNote](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app.
+* [Notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) Note-taking app. ![Freeware][Freeware Icon]
 * [Notes](http://www.get-notes.com/) - Clean, simple note-taking app. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 * [Notion](https://www.notion.so/) -Notion is the all-in-one workspace. From notes, tasks, wikis, to database, Notion is all you need. Works great for teams and individuals.
@@ -155,7 +156,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
 * [Leaf](http://www.rockysandstudio.com/) - Amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions.
 * [ReadKit](http://readkitapp.com/) - Mac read-later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
-* [Reeder 3](http://reederapp.com/mac/) - News reader for Feedbin, Feedly, Feed Wrangler and so on. ![Freeware][Freeware Icon]
+* [Reeder 4](http://reederapp.com/) - News reader for Feedbin, Feedly, Feed Wrangler and so on. ![Freeware][Freeware Icon]
 * [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 
 #### Others
@@ -228,7 +229,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [StarUML](http://staruml.io) - Powerful UML app.
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift code converter and Xcode & Finder extensions.
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - Free and open-source app for hosts management & switching. [![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
+* [SYM](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zqqf16/SYM)
 * [TeXstudio](http://www.texstudio.org) - Integrated writing environment for creating LaTeX documents. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
+* [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Visual Paradigm](https://www.visual-paradigm.com/) - All-in-one UML, SysML, BPMN Modeling Platform for Agile, EA TOGAF ADM Process Management.
 * [Woodpecker](http://www.woodpeck.cn) - View iOS app's Sandbox files, UserDefaults, Keychain items on a Mac. [![App Store][app-store Icon]](https://itunes.apple.com/app/woodpecker/id1333548463)
 * [WWDC](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
@@ -245,7 +248,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Free, open-source, native Apple OS X app for testing HTTP/REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 * [Insomnia](https://insomnia.rest/) - The most intuitive cross-platform REST API Client. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 * [Postman](https://www.getpostman.com) - Powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.![Freeware][Freeware Icon]
-* [Katalon Studio](https://www.katalon.com) - Simplify API, Web, Mobile Automation Tests Free. Robust. Cross-platform. Automation testers from 160 countries with YouTube channels, GitHub repositories.[![Open-Source Software][OSS Icon]](https://github.com/katalon-studio) ![Freeware][Freeware Icon]
+* [Katalon Studio](https://www.katalon.com) - Simplify API, Web, Mobile Automation Tests Free. Robust. Cross-platform. Automation testers from 160 countries with YouTube channels, GitHub repositories.![Freeware][Freeware Icon]
 
 #### Network Analysis
 
@@ -270,6 +273,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [ccat](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/ccat) ![Freeware][Freeware Icon]
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
+* [dark-mode](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Fish Shell](https://fishshell.com/) - Smart and user-friendly terminal, which is similar with zsh. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries. [![Open-Source Software][OSS Icon]](https://github.com/jhspetersson/fselect)
 * [Glances](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
@@ -280,6 +284,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [iTerm2](http://www.iterm2.com) - iTerm2 is an amazing terminal emulator for OS X. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [itunes-remote](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote) ![Freeware][Freeware Icon]
 * [job](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
+* [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
 * [lnav](http://lnav.org) - A log file navigator. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS. [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
@@ -293,10 +298,12 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create text documentation of installed applications, dotfiles, and more. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts. [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
+* [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat. [![Open-Source Software][OSS Icon]](https://github.com/klaussinani/taskbook) ![Freeware][Freeware Icon]
 * [Terminus](https://github.com/Eugeny/terminus) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - Free terminal tool,comparable to xshell on windows platform. ![Freeware][Freeware Icon]
 * [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV. [![Open-Source Software][OSS Icon]](https://github.com/dinedal/textql) ![Freeware][Freeware Icon]
 * [tmux](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
+* [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily. [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
 * [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash. ![Open-Source Software][OSS Icon]
 * [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron. ![Open-Source Software][OSS Icon]
 * [VisiData](https://visidata.org) - Terminal spreadsheet multitool for discovering and arranging data. [![Open-Source Software][OSS Icon]](https://github.com/saulpw/visidata) ![Freeware][Freeware Icon]
@@ -347,6 +354,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 #### Databases
 
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - Cross-platform database tool for using on Microsoft family on-premises and cloud data platforms such as MSSQL Server ![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - Application for creating, designing, editing and browsing SQLite 3 database files.
 * [Bdash](https://github.com/bdash-app/bdash) - Modern SQL client application, supports MySQL, PostgreSQL (Redshift) and  BigQuery.[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - Powerful Chrome app to manage your MySQL. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
@@ -360,6 +368,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Keylord](https://protonail.com) - Desktop GUI client for Redis, Bolt, LevelDB and Memcached key-value databases.
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to open, read, export your MDB files to other formats and databases.
 * [Medis](http://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
+* [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - Simple MongoDB GUI.
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gcollazo/mongodbapp)
 * [MongoDB](https://www.mongodb.com) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
@@ -385,6 +394,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software for Mac.
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional image editing software for Mac.
 * [Alchemy](http://al.chemy.org/) - Experimental, open-source drawing application with an emphasis on creating conceptual art. [![Open-Source Software][OSS Icon]](http://svn.al.chemy.org/)
+* [Amadine](https://amadine.com) - A vector drawing app that has everything a graphic designer needs wrapped in an uncluttered and intuitive interface.
 * [Art Text 3](https://www.belightsoft.com/art-text/) - This is graphic design software specifically tuned for lettering, typography, text mockups and various artistic text effects.
 * [Blender](https://www.blender.org/) - Free and open 3D creation software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.crea-th.at) - Colorpicker is a complete open-source colors manipulation tool with picking! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
@@ -397,7 +407,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Krita](https://krita.org/en/) - Open-source digital painting software for concept artists, digital painters, and illustrators. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [macSVG](https://macsvg.org/) - Designing HTML5 SVG art and animation. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - Free, lightweight 8-bit voxel editor and interactive path tracing renderer.
-* [Monodraw](http://monodraw.helftone.com) - Powerful ASCII art editor designed for the Mac. [![App Store][app-store Icon]](https://itunes.apple.com/app/monodraw/id920404675) 
+* [Monodraw](http://monodraw.helftone.com) - Powerful ASCII art editor designed for the Mac. [![App Store][app-store Icon]](https://itunes.apple.com/app/monodraw/id920404675)
 * [MyPaint](http://mypaint.org/) - Simple drawing and painting program that works well with Wacom-style graphics tablets.[![Open-Source Software][OSS Icon]](https://github.com/mypaint) ![Freeware][Freeware Icon]
 * [Nik Collection](https://nikcollection.dxo.com/) - Nik Collection by DxO.
 * [Paintbrush](http://paintbrush.sourceforge.net/) - Bitmap image editor. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
@@ -463,6 +473,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.  ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/de/app/assetizr/id1449126727?l=en&mt=12)
 * [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
 * [Frank DeLoupe](http://jumpzero.com/frank/) - Color-picking tool, supports Retina.
+* [HEIC Converter](https://sindresorhus.com/heic-converter) - Convert HEIC images to JPEG or PNG. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402)
 * [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons.
 * [IconKit](http://appersian.net/) - App icon generator. [![App Store][app-store Icon]](https://itunes.apple.com/app/iconkit-icon-resizer-for-app/id507135296)
 * [Image2icon](http://www.img2icnsapp.com) - Create and personalize icons from your pictures. ![Freeware][Freeware Icon]
@@ -490,11 +501,12 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### Collaboration and Team Tools
 
 * [Adium](https://adium.im/) - Free instant messaging application for Mac OS X. Connect to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
+* [Caprine](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [DingTalk](https://www.dingtalk.com/en) - Free, powerful and professional office tool used by over 5 million enterprises and organizations globally. ![Freeware][Freeware Icon]
 * [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
 * [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) based, multi-protocol wrapper for web-based chat. One application, 23 messenger services. ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - Instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
-* [Keybase](https://keybase.io/) - Crypto for everyone, not just programmers! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
+* [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
 * [LimeChat](http://limechat.net/mac/) - Open-source IRC client for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/psychs/limechat)
 * [Messenger For Mac](https://fbmacmessenger.rsms.me/) - Third-party Facebook messenger for Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rsms/fb-mac-messenger)
 * [Muzzle](https://muzzleapp.com/) - A simple mac app to silence embarrassing notifications while screensharing.
@@ -548,6 +560,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
 * [Cog](http://cogx.org/) - Free, open-source audio player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://bitbucket.org/mamburu/cog/)
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - This media player is a super versatile app for any file format you probably may think of: FLV, MP4, AVI, MOV, DAT, MKV, MP3, FLAC, M4V are all supported as well as many others.
+* [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
 * [HandBrake](https://handbrake.fr/) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 * [Hydrogen](http://hydrogen-music.org/) - Professional yet simple and intuitive pattern-based drum programming for GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 * [iFFmpeg](http://www.iffmpeg.com/) - Comprehensive Media Tool for macOS. Making High Quality Video Encoding Accessible for Everyone.
@@ -570,11 +583,13 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Soda Player](https://www.sodaplayer.com/) - Player that can play seed, magnetic links, online video, automatic captions, links and local video files. ![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
+* [Stremio](https://www.stremio.com/) - Movies, TV shows, series, live television or web channels like YouTube and Twitch.tv - you can find all this on Stremio. ![Freeware][Freeware Icon]
 * [Stringed 2](http://stringed.buenosapps.com/) - Music practice software designed to help users learn how to play their favorite songs.
 * [Synfig Studio](http://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
 * [VLC](http://www.videolan.org/index.html) - Free, open-source, cross-platform multimedia player as well as framework that plays most multimedia files, DVDs, Audio CDs, VCDs and various streaming protocols. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player) - High-definition audio player for Mac and iPhone. Music just sounds better! ![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
+* [MusicPlus](https://musicplus.io) - Search, play & download music for free. ![Freeware][Freeware Icon]
 
 ## Download Management Tools
 
@@ -606,6 +621,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware][Freeware Icon]
+* [Touch Emoji](https://github.com/lessmess-dev/touch-emoji) - emoji picker for MacBook Pro Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/lessmess-dev/touch-emoji)
 * [Type2Phone](https://www.houdah.com/type2Phone/) - Use Your Mac as Keyboard for iPhone, iPad & Apple TV. [![App Store][app-store Icon]](https://itunes.apple.com/app/type2phone-bluetooth-keyboard/id472717129)
 
 ## Browsers
@@ -613,6 +629,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google ![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
+* [Microsoft Edge Canary](https://www.microsoftedgeinsider.com) — Edge Canary, re-developed based on Chromium, but built by MS ![Freeware][Freeware Icon]
 * [Firefox](https://www.firefox.com/) - Meet Firefox Quantum. Fast, free, open-source web browser developed by the Mozilla Foundation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
 * [Safari](https://www.apple.com/safari/) - Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [TorBrowser](https://www.torproject.org/projects/torbrowser.html) - Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitweb.torproject.org/tor-browser.git)
@@ -676,7 +693,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.  [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [BitBar](https://getbitbar.com/) - Place the output from any script or program right in your Mac OS X menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
-* [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Mortennn/Dozer) 
+* [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Mortennn/Dozer)
 * [iGlance](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar. [![Open-Source Software][OSS Icon]](https://github.com/Moneypulation/iGlance) [![Freeware][Freeware Icon]](https://github.com/Moneypulation/iGlance)
 * [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
@@ -685,7 +702,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### File Organization Tools
 
 * [BetterZip 3](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR. ![Freeware][Freeware Icon]
-* [eZip](http://ezip.awehunt.com) - Free archiver for macOS with tersely but complete functions. Supports popular formats such as RAR, ZIP, 7Z, BZ2, GZ etc. Works great with Mojave dark-mode and QuickLook. ![Freeware][Freeware Icon]
+* [eZip](http://ezip.awehunt.com) - An easy to use, feature-rich archiver for macOS. Supports popular formats such as RAR, ZIP, 7Z, BZ2, GZ etc. Works great with Mojave dark-mode and QuickLook. ![Freeware][Freeware Icon]
 * [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
 * [Keka](https://www.keka.io) - file archiver for macOS. Compression: 7Z, ZIP, TAR, GZIP, BZIP2, XZ LZIP, DMG, ISO. Extraction: 7Z, ZIP, RAR, TAR, GZIP, BZIP2, XZ, LZIP, DMG, ISO, LZMA, EXE, CAB, WIM, PAX, JAR, APK, APPX, CPGZ, CPIO. [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/keka/id470158793)
 * [muCommander](http://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
@@ -700,7 +717,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [HTTrack](http://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [MacAssistant](https://github.com/vanshg/MacAssistant/releases) - Google Assistant for macOS [![Open-Source Software][OSS Icon]](https://github.com/vanshg/MacAssistant) ![Freeware][Freeware Icon]
-* [Manta](https://manta.life/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software][OSS Icon]](https://github.com/hql287/Manta) ![Freeware][Freeware Icon]
+* [Manta](https://getmanta.app/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software][OSS Icon]](https://github.com/hql287/Manta) ![Freeware][Freeware Icon]
 * [Memo](http://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
 * [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Freeware][Freeware Icon]
 * [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - An OS X app that adds a global delay of 1 second to the Cmd-Q shortcut. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dteoh/SlowQuitApps)
@@ -737,6 +754,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) – Use the side buttons on your mouse to move forward and backward in many apps, like in Windows. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - a super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor.
 * [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/skhd)
+* [Time Out](https://www.dejal.com/timeout/) - Easy break reminders, with micro-break and flexible customization if you want it. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
 * [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 * [Trello](https://trello.com) - A collaboration tool that organizes your projects into Kanban boards.![Freeware][Freeware Icon][![App Store][app-store Icon]](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode Keyboard Layout Editor.
@@ -775,6 +793,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
 * [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - File management app.
+* [QSpace](https://qspace.awehunt.com) - A clean and efficient Multi-view File Manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098)
 * [TotalFinder](http://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
 
@@ -831,6 +850,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ## Social Networking
 
+* [Chirper](https://arguiot.com/Chirper/) - A simple and tiny menu bar app for Buffer/Twitter that helps you tweet your thoughts without opening anything.
 * [Flume](https://flumeapp.com) - A beautiful Instagram experience for your Mac. The free version is good enough if you only want to do the browsing instead of posting.![Freeware][Freeware Icon]
 
 ## QuickLook Plugins [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)

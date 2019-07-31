@@ -127,6 +127,7 @@
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - 在 Mac 系统偏好设置中创建服务管理。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Xcode ＆ Finder 扩展 Objective-C 转 Swift 代码转换器
 * [Woodpecker](http://www.woodpeck.cn) - 在Mac上查看、编辑iOS App的沙盒文件, UserDefaults, Keychain项 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/woodpecker/id1333548463)
+* [SYM](https://github.com/zqqf16/SYM) - 一个图形化的崩溃日志解析工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zqqf16/SYM)
 
 ### 正则编辑器
 
@@ -140,7 +141,7 @@
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比 Postman 看起来漂亮的客户端，测试 HTTP/REST endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
 * [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试 API。![Freeware][Freeware Icon]
 * [Insomnia](https://insomnia.rest/) - 最直观的跨平台 REST API 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
-* [Katalon Studio](https://www.katalon.com) - 简单开放性测试前端开放工具， 网页， 手机应用等客户端。 可以使用在不同的浏览器[![Open-Source Software][OSS Icon]](https://github.com/katalon-studio) ![Freeware][Freeware Icon]
+* [Katalon Studio](https://www.katalon.com) - 简单开放性测试前端开放工具， 网页， 手机应用等客户端。 可以使用在不同的浏览器![Freeware][Freeware Icon]
 
 ### 网络分析
 
@@ -182,6 +183,7 @@
 * [job](https://github.com/liujianping/job) - 短命令并发、重复执行工具, 适用于压测. [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
 * [LNav](http://lnav.org) - 日志文件阅读器. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [tmux](https://github.com/tmux/tmux) - 一个优秀的终端复用器类自由软件。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
+* [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Tmux的配置管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
 * [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [cmus](https://cmus.github.io/) - 命令行播放音乐应用。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
@@ -521,7 +523,7 @@
 
 * [Feeds 2](http://www.feedsapp.com/) - 监控任何 RSS。[![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]
 * [ReadKit](http://readkitapp.com/) - 书签 RSS 管理客户端。
-* [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。 ![Freeware][Freeware Icon]
+* [Reeder 4](http://reederapp.com/) - RSS 服务订阅。
 * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。
 * [Vienna](http://viennarss.github.io/) - RSS/Atom 新闻阅读客户端。[![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
 
@@ -828,6 +830,7 @@
 * [fman](https://fman.io) - 先进的双窗口文件管理器，拥有很多特性。
 * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的 Finder 替代者，拥有很多特性。
+* [QSpace](https://qspace.awehunt.com) - 一款简洁高效的多视图文件管理器。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id1469774098)
 * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的 Finder 替代者，界面风格像 Chrome。
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给 Finder 添加有用的新特性。![Freeware][Freeware Icon]
 * [Hazel](https://www.noodlesoft.com) - 设计精美的自动文件管理软件。
